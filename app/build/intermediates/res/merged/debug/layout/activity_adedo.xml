@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/first_screen">
+
+
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/btn_sign_in"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/cast_intro_overlay_focus_radius"
+        android:layout_marginBottom="3dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/signin_button_fb"
+        android:layout_alignStart="@+id/signin_button_fb"
+        android:layout_alignRight="@+id/signin_button_fb"
+        android:layout_alignEnd="@+id/signin_button_fb"/>
+
+    <com.facebook.login.widget.LoginButton
+        android:id="@+id/signin_button_fb"
+        android:layout_width="@dimen/com_facebook_profilepictureview_preset_size_large"
+        android:layout_height="@dimen/cast_libraries_material_featurehighlight_inner_radius"
+        android:layout_above="@+id/btn_sign_in"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"/>
+
+
+</RelativeLayout>

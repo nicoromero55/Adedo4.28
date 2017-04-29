@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\viajes_fecha_actual.xml",
+        "source": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\src\\main\\res\\menu\\viajes_fecha_actual.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\viaje_actual_pasajero.xml",
+        "source": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\src\\main\\res\\menu\\viaje_actual_pasajero.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\adedo.xml",
+        "source": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\src\\main\\res\\menu\\adedo.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pasajero_viaje.xml",
+        "source": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\src\\main\\res\\menu\\pasajero_viaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chofer_viaje.xml",
+        "source": "C:\\Users\\nicor\\Desktop\\A dedo 23.4\\app\\src\\main\\res\\menu\\chofer_viaje.xml"
+    }
+]
